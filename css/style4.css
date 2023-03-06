@@ -55,12 +55,11 @@ img {
 @media (max-width: 600px) {
 
     .music {
-        padding: 16px 16px 14px 16px;
+        padding-top: 16px;
         background-color: white;
         position: fixed;
         top: 0;
         width: 100%;
-        max-width: 360px;
         border-bottom: 1px solid #ebebee;
         z-index: 999;
     }
